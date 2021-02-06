@@ -1,3 +1,7 @@
 bod{
   font-size : 30px ;
 }
+
+header{
+ background : red;
+}
